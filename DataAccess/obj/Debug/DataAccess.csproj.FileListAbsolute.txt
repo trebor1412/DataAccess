@@ -1,0 +1,5 @@
+D:\git\My Github Repositories\DataAccess\DataAccess\bin\Debug\DataAccess.dll
+D:\git\My Github Repositories\DataAccess\DataAccess\bin\Debug\DataAccess.pdb
+D:\git\My Github Repositories\DataAccess\DataAccess\obj\Debug\DataAccess.dll
+D:\git\My Github Repositories\DataAccess\DataAccess\obj\Debug\DataAccess.pdb
+D:\git\My Github Repositories\DataAccess\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
